@@ -1,0 +1,7 @@
+{
+  "name": "floating-point-error-examples",
+  "version": "1.0.0",
+  "description": "Floating point error examples for tests",
+  "main": "index.js",
+  "author": "Elena Sharovar"
+}
